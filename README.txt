@@ -21,8 +21,3 @@ test_keys.txt: file containing the true labels for test files
 
 accuracy_checker.py: script to compare output with dev_keys.txt.  DO NOT TOUCH!
 naive_bayes_classifier: allows to run the NB classifier trough the commandline. DO NOT TOUCH!
-
-
-
-
-
