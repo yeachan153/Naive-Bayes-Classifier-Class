@@ -1,0 +1,3 @@
+command line for naive_bayes_classifier: --training-corpus-dir 20news-18828 --test-set-directory dev-set --keys dev_keys.txt
+
+command line for accuracy_checker: predictions.txt dev_keys.txt 
